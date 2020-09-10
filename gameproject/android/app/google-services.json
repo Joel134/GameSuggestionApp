@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42374633802",
+    "firebase_url": "https://game123-29bf9.firebaseio.com",
+    "project_id": "game123-29bf9",
+    "storage_bucket": "game123-29bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42374633802:android:1ad5d237e9ee967f4dc9b3",
+        "android_client_info": {
+          "package_name": "com.example.gameproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42374633802-culmlkn3p81uf2c225jebsiv3amuu0hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWF2vyV8srYLiWcQEtqf7Z9yAw6Xl_xmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42374633802-culmlkn3p81uf2c225jebsiv3amuu0hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
